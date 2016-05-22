@@ -2,7 +2,7 @@
 This is the overall architecture for the OCDX Repository collection 
 
 # Architecture
-* Wikibase is used to create manifests, following the manifest laid out in libbyh/ocdx .
+* Wikibase is used to create manifests, following the manifest laid out in libbyh/ocdx.  A sparkle engine will be used to search for the collections 
 * JupyterHub is used, following a K8S architecure described in 
 * Each collection contains:
 ** A Manifest
