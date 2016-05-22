@@ -1,2 +1,10 @@
 # REPOEngine
 This is the overall architecture for the OCDX Repository collection 
+
+# Architecture
+* Wikibase is used to create manifests, following the manifest laid out in libbyh/ocdx .
+* JupyterHub is used, following a K8S architecure described in 
+* Each collection contains:
+** A Manifest
+** A pointer to a dataset (could be multiple files)
+** A Jupyter Hub Notebook Directory containing a set of notebooks 
