@@ -22,6 +22,9 @@ A researcher with a data set will come to our site to contribute their data set.
 3. Data scientists
 4. System admins
 
+## Pre Conditions
+1. One primary actor wants ot upload and share data. 
+
 ## Dependent Use Cases
 1. Generate Manifest
 2. Generate Config Settings
