@@ -1,7 +1,7 @@
 #Spawn JH Instance
 
 ## Description
-When a user has selected a dataset and SNC files he or she is intersted in exploring, the site will spawn into a docker instance on Jupyter where the data/code can be viewed/tested/maniputlated.
+When a user has selected a dataset and SNC files he or she is intersted in exploring, the site will spawn into a docker instance on Jupyter where the data/code can be viewed/tested/maniputlated. A dataset may be opened without any SNC files, but SNC files will always be opened with their corresponsing dataset.
 
 ## Functional Requirements
 
