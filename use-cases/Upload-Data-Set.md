@@ -23,7 +23,16 @@ A researcher with a data set will come to our site to contribute their data set.
 4. System admins
 
 ## Pre Conditions
-1. One primary actor wants ot upload and share data. 
+1. One primary actor wants ot upload and share data.
+
+## Main Success Scenario
+Manifest and data are all uploaded to the server, and become searchable.
+
+## Failed End Condition
+Primary actor unable to upload data and/or primary actor does not have enough information to complete the manifest.
+
+## Trigger
+User clicks "Submit Data Set Button on the OCDX.IO website."
 
 ## Dependent Use Cases
 1. Generate Manifest
