@@ -1,7 +1,7 @@
 # Create Docker Instance Based on Existing Configuration File
 
 ## Description
-
+Following the upload of the dataset, SNC files, and the OCDX manifest, a new Jupyter Hub instance is created to house the project. The instance is based on the user providing a configuration file that represents the user's local development environment. 
 
 ## Functional Requirements
 
