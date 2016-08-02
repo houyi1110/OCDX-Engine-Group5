@@ -4,16 +4,19 @@
 Following the upload of the dataset, SNC files, and the OCDX manifest, a new Jupyter Hub instance is created to house the project. The instance is based on the user providing a configuration file that represents the user's local development environment. 
 
 ## Functional Requirements
-Place to upload/link to dataset
-Place to upload scripts (if provided)
-Place to upload Jupyter Notebooks (if provided)
-Docker config file (if provided) [could be generated with use case "Generate Config Settings]
+Button to push to launch JupyterHub Instance
 
 ## Technical Requirements
-
+Back end version control for the scripts
+Disk space for storage of data (possibly large data sets)
+Jupyter Hub Installation
+Docker Installation 
+Working, public web server
 
 ## Primary Actors
-
+Reserachers
+Students 
+Data Scientists 
 
 ## Pre Conditions
 
