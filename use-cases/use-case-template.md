@@ -8,4 +8,4 @@
 
 ## Users
 
-## Dependent Use Cases. 
+## Dependent Use Cases
