@@ -1,4 +1,4 @@
-# Use Case Template
+# Browse Manifest
 
 ## Description
 
