@@ -1,7 +1,7 @@
 # Generate or Upload Manifest
 
 ## Description
-After a user has uploaded the dataset and any SNC files, they will have one of two options. If a complete OCDX Manifest is already avaliable to the user, the file can be uploaded directly. Otherwise, the user will manually fill our a manifest form with the necessary specifications. In both cases, the manifest must be complete before the dataset and SNC files are saved.
+After a user has uploaded the dataset and any SNC (Scripts, Notes & Configuration) files, they will have one of two options. If a complete OCDX Manifest is already avaliable to the user, the file can be uploaded directly. Otherwise, the user will manually fill our a manifest form with the necessary specifications. In both cases, the manifest must be complete before the dataset and SNC files are saved.
 
 ## Fucntional Requirements
 1. Buttons to "Generate Manifest" and "Upload Manifest"
