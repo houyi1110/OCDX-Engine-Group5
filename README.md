@@ -1,11 +1,13 @@
-## OCDXEngine
+# OCDXEngine
 This is the overall architecture for the OCDX Repository collection 
-# Wiki
-* Wikibase is used to create manifests, following the manifest laid out in libbyh/ocdx.  A sparkle engine will be used to search for the collections*
-* https://docs.google.com/document/d/1eyouf5pZJNSQW618xA-JStpfI8gW9idJlE5P3wCr0ko/edit?usp=sharing
-# Reqs
-* https://docs.google.com/document/d/1taHixCv3siKWV6Z53MhWA9_cJzDl3t93crVsMrE218Y/edit?usp=sharing
-# Architecture
+## Wiki
+  * Wikibase is used to create manifests, following the manifest laid out in libbyh/ocdx.  A sparkle engine will be used to search for the collections
+  * https://docs.google.com/document/d/1eyouf5pZJNSQW618xA-JStpfI8gW9idJlE5P3wCr0ko/edit?usp=sharing
+
+## Reqs
+  * https://docs.google.com/document/d/1taHixCv3siKWV6Z53MhWA9_cJzDl3t93crVsMrE218Y/edit?usp=sharing
+
+## Architecture
 * This is the overall architecture for the OCDX Repository collection
 ** Have wiki be able to launch a notebook, including the full contents of the collection (defined below)
 * JupyterHub is used, following a K8S architecure described in 
